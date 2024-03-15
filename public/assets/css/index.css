@@ -1,0 +1,19 @@
+.text-box .h4{
+    margin-left:1%
+}
+.text-box a{
+    margin-right: 1%;
+}
+.footer h5{
+    border: 1px solid gainsboro;
+    width:100%;
+    max-width: 100%;
+    min-width: 200px;
+    text-align: center;
+    background-color: gainsboro;
+    margin-top: 7.9%;
+    padding:20px;
+}
+.main{
+    height:79vh;
+}
